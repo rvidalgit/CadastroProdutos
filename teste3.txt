@@ -1,0 +1,7 @@
+130,Tênis,Tênis Nike 39,299.9,2,21/11/2015
+123,Camisa,Camisa Azul Lacoste P,120.9,10,17/11/2015
+124,Meia,Meião Nike Preto,15.,15,20/11/2015
+125,Camiseta,Camiseta adidas Premium,45.99,20,18/11/2015
+129,Calça,Calça Fórum 38,150.9,5,17/11/2015
+131,Meia,Meião Penault Branco,15.,10,19/10/2015
+121,Tênis,Tênis Asics 40,200.9,2,23/11/2015
